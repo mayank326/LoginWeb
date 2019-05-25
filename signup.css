@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	position: relative;	
+}
+
+ #contact-form h3{
+	color: 	#FF4500;
+
+}
+
+#contact-form{
+	border:1px solid black;
+	padding: 20px;
+	width: 400px;
+  	height: 600px;
+  	position: absolute;
+  	top: 5%;
+  	left: 50%;
+  	margin: 0px 0 0 -170px;
+  	padding-bottom: 50px;
+}
+
+.button1{
+	margin-top: 30px;
+	border-radius: 4px;
+	color: #fff;
+	background: rgb(255,69,0);
+	padding:10px; 
+	margin-bottom: 50px;
+}
+

@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	position: relative;
+}
+
+body h3{
+	color: 	#FF4500;
+	display: inline-block;
+	position: absolute;
+  	top: 25%;
+  	left: 58%;
+  	margin: -50px 0 0 -170px;
+  	
+}
+
+#contact-form{
+	padding: 20px;
+	width: 400px;
+  	height: 300px;
+  	padding: 20px;
+	position: absolute;
+  	top: 40%;
+  	left: 50%;
+  	margin: -70px 0 0 -170px;
+  	-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.button1{
+	margin-top: 30px;
+	border-radius: 4px;
+	color: #fff;
+	background: rgb(255,69,0);
+	padding:10px; 
+}
+
+#contact-form p{
+	float: right;
+}
+
+#loginSpinner{
+	margin-top: 20px;
+	display: none;
+}
